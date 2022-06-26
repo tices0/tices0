@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tices0
-- 👀 I’m interested in mobile app development and robotics
-- 🌱 I’m currently learning android app developement
-- 💞️ I’m looking to collaborate on one of my mobile apps
+- 👀 I’m interested in web development and robotics
+- 🌱 I’m currently learning web developement
+- 💞️ I’m looking to collaborate on one of my websites
 - 📫 How to reach me message me
 
 <!---
